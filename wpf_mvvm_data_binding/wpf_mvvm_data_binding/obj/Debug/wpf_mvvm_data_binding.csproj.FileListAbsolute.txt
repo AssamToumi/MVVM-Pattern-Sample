@@ -1,0 +1,15 @@
+C:\Users\assam\source\Repos\wpf_mvvm_data_binding\wpf_mvvm_data_binding\obj\Debug\App.g.cs
+C:\Users\assam\source\Repos\wpf_mvvm_data_binding\wpf_mvvm_data_binding\obj\Debug\wpf_mvvm_data_binding_MarkupCompile.cache
+C:\Users\assam\source\Repos\wpf_mvvm_data_binding\wpf_mvvm_data_binding\bin\Debug\wpf_mvvm_data_binding.exe.config
+C:\Users\assam\source\Repos\wpf_mvvm_data_binding\wpf_mvvm_data_binding\bin\Debug\wpf_mvvm_data_binding.exe
+C:\Users\assam\source\Repos\wpf_mvvm_data_binding\wpf_mvvm_data_binding\bin\Debug\wpf_mvvm_data_binding.pdb
+C:\Users\assam\source\Repos\wpf_mvvm_data_binding\wpf_mvvm_data_binding\obj\Debug\View\MainWindow.g.cs
+C:\Users\assam\source\Repos\wpf_mvvm_data_binding\wpf_mvvm_data_binding\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\assam\source\Repos\wpf_mvvm_data_binding\wpf_mvvm_data_binding\obj\Debug\wpf_mvvm_data_binding_MarkupCompile.lref
+C:\Users\assam\source\Repos\wpf_mvvm_data_binding\wpf_mvvm_data_binding\obj\Debug\View\MainWindow.baml
+C:\Users\assam\source\Repos\wpf_mvvm_data_binding\wpf_mvvm_data_binding\obj\Debug\wpf_mvvm_data_binding.g.resources
+C:\Users\assam\source\Repos\wpf_mvvm_data_binding\wpf_mvvm_data_binding\obj\Debug\wpf_mvvm_data_binding.Properties.Resources.resources
+C:\Users\assam\source\Repos\wpf_mvvm_data_binding\wpf_mvvm_data_binding\obj\Debug\wpf_mvvm_data_binding.csproj.GenerateResource.cache
+C:\Users\assam\source\Repos\wpf_mvvm_data_binding\wpf_mvvm_data_binding\obj\Debug\wpf_mvvm_data_binding.csproj.CoreCompileInputs.cache
+C:\Users\assam\source\Repos\wpf_mvvm_data_binding\wpf_mvvm_data_binding\obj\Debug\wpf_mvvm_data_binding.exe
+C:\Users\assam\source\Repos\wpf_mvvm_data_binding\wpf_mvvm_data_binding\obj\Debug\wpf_mvvm_data_binding.pdb
